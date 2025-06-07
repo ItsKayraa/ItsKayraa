@@ -8,3 +8,5 @@ Here is a quick about me!
 - 📫 How to reach me: Discord: comeb3
 - 😄 Pronouns: He/him/bro/dawg
 - ⚡ Fun fact: I'm chill just call me anything you want dawg
+
+I'm a Turkish developer!
